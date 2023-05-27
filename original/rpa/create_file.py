@@ -7,6 +7,7 @@ pyautogui.click()
 pyautogui.write("touch new.py")
 pyautogui.press("enter")
 
+
 # 3秒待機する
 time.sleep(3)
 
